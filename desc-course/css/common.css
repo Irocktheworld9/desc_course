@@ -1,0 +1,41 @@
+
+/*
+*css for studnet_common_page
+*/
+
+#footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background-color: #0e614f;
+}
+
+/* IE 6 */
+* html #footer {
+   position:absolute;
+   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+}
+
+.nav-wrapper{
+	background-color: #0e614f !important;
+}
+/*******************************************
+********************************************/
+
+/*
+*css for student_home
+*/
+.student_body{
+	padding: 15px;
+}
+
+/*
+*css for staff_common_page
+*/
+
+
+section.main-content {
+	padding: 10px;
+}
