@@ -4,16 +4,16 @@
 			<img src="img/sirsendu_pic.png" width="170" height="170" align="center"><br>
 			<h5 align="center" class="flow-text">Sirsendu Gope<br>(15352010)<br>MCA</h5>
 		</div>
-		
+
 		<div class="contact left">
 			<h6 class="flow-text"><b>Email:</b>&nbsp&nbspsoumyajit98@gmail.com<br>
 			<b>Contact:</b>&nbsp&nbsp 999021548</h6>
 		</div>
 	</div>
-	
+
 	<h5 align="center"><b><i>Student</i></b></h5>
 	<div class=" student_about">
-		
+
 		<div class="container details">
 			<h4>Basic Details:</h4>
 			<table class="responsive-table">
@@ -56,28 +56,32 @@
 					</tr>
 				</tbody>
 			</table>
-			
+
 		</div>
-		
+
 		<div class="container education">
 			<h4>Education:</h4>
 			<table class="responsive-table striped">
 				<tbody>
 					<tr>
 						<td><b>Masters :</b></td>
-						<td>Computer Application<br>2015-2018<br>Pondicherry Central University</td>
+						<!--<td>Computer Application<br>2015-2018<br>Pondicherry Central University</td>-->
+						<td><button id="Add1">Add</button></td>
 					</tr>
 					<tr>
 						<td><b>Graduation :</b></td>
-						<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>
+						<!--<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>-->
+						<td><button id="Add2">Add</button></td>
 					</tr>
 					<tr>
 						<td><b>Higher Secondary :</b></td>
-						<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>
+						<!--<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>-->
+						<td><button id="Add3">Add</button></td>
 					</tr>
 					<tr>
 						<td><b>Secondary :</b></td>
-						<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>
+						<!--<td>Computer Sciecne<br>2012-2015<br>Pondicherry Central University</td>-->
+						<td><button id="Add4">Add</button></td>
 					</tr>
 				</tbody>
 			</table>
